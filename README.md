@@ -12,7 +12,7 @@
 <br>
 <br>
 <div align="Center">
-<h1>Skills</h1>
+<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 </div>
 
 <div align="Center">
@@ -85,4 +85,9 @@ And here are some interesting grphs about my github activities:
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile detail" />
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<!-- footer -->
+
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
