@@ -19,7 +19,7 @@
 
 | Languages | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=java,c,kotlin,ts,js,php,py,react"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,docker,kubernetes,spring,nodejs,git,github"/> |
+| <img src="https://skillicons.dev/icons?i=java,c,kotlin,ts,js,php,py,react"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,docker,sublime,spring,nodejs,git,github"/> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,mac"/>
+<img src="https://skillicons.dev/icons?i=windows,arch,kali,ubuntu"/>
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ luis! 
-*programmer apprentice (cybersecurity / Programmer)*
+*programmer (cybersecurity / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
