@@ -63,7 +63,7 @@
  ```python
  class WhoAmI:
  	user = 'luis Ortega'
-	current_edu = "computer engineering"
+	current_passion = "Car engines"
 	hobbies = [
 				'basketball play',
 				'Watching series',
