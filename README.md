@@ -122,6 +122,3 @@ And here are some interesting grphs about my github activities:
 
 <!-- footer -->
 
-![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
-
