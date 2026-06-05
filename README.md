@@ -49,8 +49,7 @@
 
 - ✨ Basketball and code is my life :)
 - 🌱 Learning new digital tools, formerly a construction assistant working with steel and now working with code.
-- 🏙 special thanks to the teacher [Midudev](https://midu.dev/) and [Mouredev](https://mouredev.pro/).
-- 💁‍♂️ Volunteer in new projects.
+- 💁‍♂️ Developer in open-source project.
 - ✍ I post funny things about technology and programming on my x profile [X](https://x.com/luisOrtgaJok).
 - ❤ Contributing to Open Source.
 - 💻 My passion is gaming computers.
