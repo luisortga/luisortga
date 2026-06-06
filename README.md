@@ -19,7 +19,7 @@
 
 | Languages | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=java,c,kotlin,ts,js,php,py,react"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,docker,sublime,spring,nodejs,git,github"/> |
+| <img src="https://skillicons.dev/icons?i=java,c,ts,js,php,py"/> | <img src="https://skillicons.dev/icons?i=vscode,docker,spring,nodejs,git,github"/> |
 
 </div>
 
