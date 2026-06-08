@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to my GitHub
+  Welcome is my GitHub
   <img src="https://media.tenor.com/ywY73NVS58IAAAAj/invincible-mark-grayson.gif" width="180">
 </h3>
 
