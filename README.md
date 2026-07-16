@@ -1,6 +1,7 @@
 <h3 align="center">
   Welcome to my GitHub
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThnanJkeXpkanVpN2Q5NHN4d2l3c3h6cmJjOHowcmFuZ3F1NTM2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="180">
+	<img src="https://github.com/luisortga/luisortga/blob/60b3471231bc59259a51fce2974e99c17a236de8/giphy.gif" width="180">
 </h3>
 
 # luis Ortega
