@@ -77,7 +77,7 @@
 		CreateAnimation()
 		KnowledgeInSteels()
 		# I have stories to tell  ;)
-		# Beasy Book: The Pragmatic Programmer by Andy Hunt and Dave Thomas  
+		# Favorite book: The Pragmatic Programmer by Andy Hunt and Dave Thomas 
 	
  ```
 
