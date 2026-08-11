@@ -69,14 +69,15 @@
 				'play videogames especially Forza Horizon 5'
 			]
 	
-	def getCity():
-		return mexicoTuxtepec()
+	def getPlayer():
+		return kobe_bryant('The Black Mamba')
 	
 	def Ambitions():
 		VisitSquares()
 		CreateAnimation()
 		KnowledgeInSteels()
 		# I have stories to tell  ;)
+		# Beasy Book: The Pragmatic Programmer by Andy Hunt and Dave Thomas  
 	
  ```
 
