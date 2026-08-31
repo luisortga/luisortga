@@ -64,13 +64,10 @@
 	current_passion = "Car engines"
 	hobbies = [
 				'basketball play',
-				'Watching series',
-				'Urbex'
+				'Watching series or documentaries',
+				'Urban exploration'
 				'play videogames especially Forza Horizon 5'
 			]
-	
-	def getPlayer():
-		return kobe_bryant('The Black Mamba')
 	
 	def Ambitions():
 		VisitSquares()
