@@ -82,13 +82,6 @@
 
 <!-- customer -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisortga&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisortga&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisortga&theme=radical" alt="GitHub Streak" />
