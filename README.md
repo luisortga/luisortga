@@ -80,6 +80,26 @@
 
 <!-- code final -->
 
+<!-- customer -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisortga&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisortga&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisortga&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=luisortga&show_icons=true" alt="GitHub Stats Extended" />
+</p>
+
+<!-- end customes -->
+
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
