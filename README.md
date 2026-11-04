@@ -1,11 +1,3 @@
-<div align="center">
-
-  <img src="https://i.ibb.co/LXpc9Vhs/f70da052-90f2-43c2-a4f0-288e19cc7004.png"
-       width="100%"
-       alt="Luis Ortega - Developer Terminal Profile">
-
-</div>
-
 ---
 
 <div align="center">
